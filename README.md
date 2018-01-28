@@ -1,3 +1,3 @@
 # note-java
 
-https://github.com/MacKittipat/note-java/wiki/Collection
+https://github.com/MacKittipat/note-java/wiki
